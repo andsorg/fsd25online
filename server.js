@@ -1,4 +1,3 @@
 console.log("Hello! Git started...");
 
 console.log("Sum of two numbers= ", 2 + 3);
-console.log("Hello! Git started....");
