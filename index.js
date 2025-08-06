@@ -1,4 +1,4 @@
-const AUTH_TOKEN = process.env.AUTH_TOKEN;
+const AUTH_TOKEN = "teshfhfjhgjkhgkg6869685hhgjhu7678";
 fetch("http://localhost:5000/protected", {
   method: "GET",
   headers: {
